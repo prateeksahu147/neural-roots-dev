@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-8-yr*uok1#1iqm!6!$wht&sw0u=xo%wv(=)b8%!o-^a9o=x-vm
 # SECURITY WARNING: don't run with debug turned on in production!
 # DEBUG = True
 #DEBUG = os.environ.get('DJANGO_DEBUG', '') != 'False'
-DEBUG= True
+DEBUG= False
 
 
 ALLOWED_HOSTS = ["neural-roots.herokuapp.com",'127.0.0.1', 'gentle-crag-00890.herokuapp.com',]
