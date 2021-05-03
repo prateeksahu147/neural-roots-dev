@@ -31,7 +31,7 @@ SECRET_KEY = 'django-insecure-8-yr*uok1#1iqm!6!$wht&sw0u=xo%wv(=)b8%!o-^a9o=x-vm
 DEBUG= True
 
 
-ALLOWED_HOSTS = ["neural-roots.herokuapp.com",'127.0.0.1',]
+ALLOWED_HOSTS = ["neural-roots.herokuapp.com",'127.0.0.1', 'gentle-crag-00890.herokuapp.com',]
 
 
 # Application definition
